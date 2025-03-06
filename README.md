@@ -17,10 +17,10 @@
 
 ## UML
 **Activity diagram**
-![Alt text](readme.img/activity.png)
+![Alt text](activity.png)
 
 **Class diagram**
-![Alt text](readme.img/class.png)
+![Alt text](class.png)
 
 ## License
 
