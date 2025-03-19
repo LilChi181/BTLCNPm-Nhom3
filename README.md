@@ -19,7 +19,9 @@
 - Clone repo này
 - Chạy file "ProTune.jar" để khởi động ứng dụng
 ##### Note: ứng dụng có thể bị "Not respoding" trong lúc khởi động, nếu gặp hãy thử khởi động lại
+## Ảnh demo
 
+![Alt text](readme.img/demo1.png)
 
 ## UML
 **Activity diagram**
